@@ -1,0 +1,9 @@
+/Users/lmynsberge/git-projects/dotnet-first/unit-test-nunit/PrimeService/bin/Debug/netstandard2.0/PrimeService.deps.json
+/Users/lmynsberge/git-projects/dotnet-first/unit-test-nunit/PrimeService/bin/Debug/netstandard2.0/PrimeService.dll
+/Users/lmynsberge/git-projects/dotnet-first/unit-test-nunit/PrimeService/bin/Debug/netstandard2.0/PrimeService.pdb
+/Users/lmynsberge/git-projects/dotnet-first/unit-test-nunit/PrimeService/obj/Debug/netstandard2.0/PrimeService.csprojAssemblyReference.cache
+/Users/lmynsberge/git-projects/dotnet-first/unit-test-nunit/PrimeService/obj/Debug/netstandard2.0/PrimeService.csproj.CoreCompileInputs.cache
+/Users/lmynsberge/git-projects/dotnet-first/unit-test-nunit/PrimeService/obj/Debug/netstandard2.0/PrimeService.AssemblyInfoInputs.cache
+/Users/lmynsberge/git-projects/dotnet-first/unit-test-nunit/PrimeService/obj/Debug/netstandard2.0/PrimeService.AssemblyInfo.cs
+/Users/lmynsberge/git-projects/dotnet-first/unit-test-nunit/PrimeService/obj/Debug/netstandard2.0/PrimeService.dll
+/Users/lmynsberge/git-projects/dotnet-first/unit-test-nunit/PrimeService/obj/Debug/netstandard2.0/PrimeService.pdb
